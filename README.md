@@ -1,5 +1,6 @@
 # stock-price-reader
-Python program to obtain stock prices given a list of tickers. Generates a csv output file that can be imported e.g. into Excel.
+Python program to obtain stock/fund prices given a list of tickers. Generates a csv output file that can be imported e.g. into Excel.
+I use this to update a personal financials spreadsheet with the latest pricing.
 Utilizes the api provided by [Alpha Advantage](https://www.alphavantage.co/documentation/). 
 
 ## Built With
